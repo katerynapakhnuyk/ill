@@ -1,0 +1,60 @@
+header {
+	margin:0;	
+	padding: 2% 0;
+	height: 60px;
+	background: linear-gradient(blue, yellow);
+	
+}
+.shapka {
+ 	color: black;
+ 	text-align: center;
+ 	font-size: 130%;
+ }
+body {
+    background: linear-gradient(blue, yellow);
+ }
+ figure {
+    float: left;
+    text-align: center;
+    font-style: italic;    
+}
+ .img {
+    width: 390px; 
+}
+.text {
+    padding-top: 5%;
+}
+.tex {
+    font-size: 85%;
+    text-align: right;
+}
+.ones {
+    padding-bottom: 10%;
+}
+ main {
+    background-color: #daf2f7;
+    margin: 0 10% 0 10%;
+    padding: 2% 3% 2% 2%;
+ }
+ .images {
+   padding-left: 5%;
+   padding-right: 1%;
+ }
+.nas {
+    border-radius: 8%;
+    transition: transform 0.25s;
+}
+.images img:hover {
+    transform: scale(1.1);
+     cursor: pointer;
+}
+.link12{
+    font-size: 110%;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+}
+
+ 

@@ -1,0 +1,101 @@
+@media (min-width: 0px) and (max-width: 320px) {
+	.shapka {
+		margin-top: 0px;
+		font-size: 90%;
+	}
+	header{
+		height: 60%;
+		padding: 9% 0;
+		margin: 0;
+	}
+	main {
+	    margin: 0% ;
+	    padding: 0%;
+	}
+	.img {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: 100%;
+	}
+	.start {
+		height: 100%;
+	}
+	.one {
+		font-size: 80%;
+		margin: 3%;
+		line-height: 110%;
+	}
+	.prod1{
+		font-size: 100%;
+		margin: 5%;
+	}
+	.prod{
+		margin: 0;
+		height: 100%;
+	}
+	.photo1 {
+		margin-left: 2%;
+	 	margin-right: 3%;
+	 	display: block;
+	 	justify-content: center;
+	 	justify-content: space-around;
+	 	height: 100%;
+	 	margin-bottom:6%;
+	}
+	.div{
+	 	height: 100%;
+	 	width: 98%;
+	 	color: #0f4a5c;
+	 	font-size: 20px;
+	 	border: 1px solid #57caf7;
+	 	padding-right: 5px;
+	 	padding-left: 5px;
+	 	padding-bottom: 1%;
+	 	margin: 5% 0;
+	 }
+	.photo {
+		max-width: 30%;
+		float: left;
+		margin-right: 5%;
+		margin-top: 2%;
+
+	}
+	.size {
+		font-size: 80%;
+	}
+	.about {
+		font-size: 85%;
+		margin: 5% 0;
+	}
+	.mal {
+		width: 95%;
+	}
+	.mall {
+		font-size: 85%;
+		text-align: left;
+	}
+	.img1 {
+		width: 0;
+	}
+	.list_title {
+		font-size: 100%;
+		text-align: left;
+		margin-left: -2%;
+	}
+	.list {
+		font-size: 75%;
+		margin: 0;
+	}
+	footer {
+		height: 200%;
+		margin: 0;
+		padding: 0;
+		background: none;
+	}
+	.end {
+		font-size: 80%;
+		padding: 5% 5%;
+		text-align: center;
+	}
+}
